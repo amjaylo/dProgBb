@@ -39,6 +39,10 @@
             "file" : "key_based_platform.txt",
             "name" : "Platform",
             "regex" : "(Hackerone program)"
+        {
+            "file" : "key_report.txt",
+            "name" : "Disclosure",
+            "regex" : "bug bounty"
         }
         
     ]
