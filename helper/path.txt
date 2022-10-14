@@ -56,5 +56,3 @@
 /en/digital-security/responsible-disclosure/
 /security-responsible-disclosure
 /corporate/security/responsible-disclosure
-/report-security-incident
-/report-security-issue/
